@@ -6,7 +6,7 @@ This repository contains an analysis of a data professional survey, visualized i
 
 ## Questions Answered
 
-This analysis seeks to answer several key questions about data professionals:
+### This analysis seeks to answer several key questions about data professionals:
 
 * *Demographics:*
     * Where are the survey takers located geographically?
@@ -22,6 +22,22 @@ This analysis seeks to answer several key questions about data professionals:
 * *Job Satisfaction:*
     * How satisfied are data professionals with their salaries?
     * How satisfied are data professionals with their jobs overall?
+ 
+## Tools and Methodologies
+### This analysis was conducted using the following tools and methodologies:
+ * Data Cleaning and Preparation:
+   * Power Query within Power BI for data transformation, cleaning, and shaping.
+   * Handling missing values, data type conversions, and outlier detection using Power Query's capabilities.
+ * Data Visualization and Dashboard Creation:
+   * Power BI for creating interactive dashboards, charts, and graphs.
+   * Utilizing Power BI's built-in visualizations and DAX measures for analysis.
+ * Data Storage:
+   * Data imported into Power BI from CSV files or other compatible data sources.
+ * Methodologies:
+   * Exploratory Data Analysis (EDA) within Power BI to understand the data and identify patterns.
+   * Data aggregation and grouping using Power BI's features to summarize data by categories.
+   * Comparative analysis through visual comparisons and DAX-driven calculations within Power BI.
+
 
 ## Result  
 
@@ -30,7 +46,7 @@ This analysis seeks to answer several key questions about data professionals:
 
 ## Insights
 
-The dashboard provides several key insights into the data professional landscape:
+### The dashboard provides several key insights into the data professional landscape:
 
 * *Geographic Distribution:* The majority of survey takers are located in the United States, Canada, and the United Kingdom. There is also a significant number of respondents from India.
 * *Top Paying Roles:* Data Scientists, Data Architects, and Data Engineers are among the highest-paying roles in the data field.
@@ -44,6 +60,4 @@ The dashboard provides several key insights into the data professional landscape
 
 This analysis provides a valuable overview of the data professional landscape. The insights gained from this survey can be used to inform career decisions, recruitment strategies, and educational programs. The data highlights the growing demand for data professionals and the importance of skills such as programming and data analysis.
 
-Further analysis could explore the relationships between different variables, such as the impact of education and experience on salary. Additionally, a longitudinal study could track changes in the data professional landscape over time.
 
-Feel free to explore the repository and contribute to the analysis. If you have any questions or suggestions, please don't hesitate to reach out.
